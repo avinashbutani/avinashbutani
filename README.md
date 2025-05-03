@@ -13,6 +13,7 @@
 - 💬 Ask me about ... **Malware, Android & Reverse Engineering**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Security Researcher**❤
+<br/>
 
 <h4>Programming Languages: </h4>
 <p align="left">
