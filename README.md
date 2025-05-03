@@ -18,7 +18,7 @@
 <p align="left">
   <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt=C++ width="60" height="60"/>
   <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt=Python width="60" height="60"/>
-  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt=bash width="60" height="60"/>
+  <img style="margin: auto;" src="https://img.icons8.com/color/96/bash.png" alt=bash width="60" height="60"/>
 </p>
 <h4>Skill & Tools </h4>
 <p>
@@ -30,8 +30,8 @@
   <img style="margin: auto;" src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt=BurpSuite width="60" height="60"/>
   <img style="margin: auto;" src="https://images.icon-icons.com/2699/PNG/512/snort_logo_icon_167980.png" alt=Snort width="60" height="60"/>
   <img style="margin: auto;" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt=KaliLinux width="60" height="60"/>
-  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt=github width="60" height="60"/>
-  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" alt=gitlab width="60" height="60"/>
+  <img style="margin: auto;" src="https://img.icons8.com/office/80/github.png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt=gitlab width="60" height="60"/>
   <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt=Illustrator width="60" height="60"/>
 </p>
 <h4>Environments: </h4>
